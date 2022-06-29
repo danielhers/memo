@@ -1,0 +1,5152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="float"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="1870_AndersenHC_LykkePeer">
+  <data key="d0">0</data>
+</node>
+<node id="Topic 0">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 1">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 2">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 3">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 4">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 5">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 6">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 7">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 8">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 9">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 10">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 11">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 12">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 13">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 14">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 15">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 16">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 17">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 18">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 19">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 20">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 21">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 22">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 23">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 24">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 25">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 26">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 27">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 28">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 29">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 30">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 31">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 32">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 33">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 34">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 35">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 36">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 37">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 38">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 39">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 40">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 41">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 42">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 43">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 44">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 45">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 46">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 47">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 48">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 49">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 50">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 51">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 52">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 53">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 54">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 55">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 56">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 57">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 58">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 59">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 60">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 61">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 62">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 63">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 64">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 65">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 66">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 67">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 68">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 69">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 70">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 71">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 72">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 73">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 74">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 75">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 76">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 77">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 78">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 79">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 80">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 81">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 82">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 83">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 84">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 85">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 86">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 87">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 88">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 89">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 90">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 91">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 92">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 93">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 94">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 95">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 96">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 97">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 98">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 99">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 100">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 101">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 102">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 103">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 104">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 105">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 106">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 107">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 108">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 109">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 110">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 111">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 112">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 113">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 114">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 115">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 116">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 117">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 118">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 119">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 120">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 121">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 122">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 123">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 124">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 125">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 126">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 127">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 128">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 129">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 130">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 131">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 132">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 133">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 134">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 135">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 136">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 137">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 138">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 139">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 140">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 141">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 142">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 143">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 144">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 145">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 146">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 147">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 148">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 149">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 150">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 151">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 152">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 153">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 154">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 155">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 156">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 157">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 158">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 159">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 160">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 161">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 162">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 163">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 164">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 165">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 166">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 167">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 168">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 169">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 170">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 171">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 172">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 173">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 174">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 175">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 176">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 177">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 178">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 179">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 180">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 181">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 182">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 183">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 184">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 185">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 186">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 187">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 188">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 189">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 190">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 191">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 192">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 193">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 194">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 195">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 196">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 197">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 198">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 199">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 200">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 201">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 202">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 203">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 204">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 205">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 206">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 207">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 208">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 209">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 210">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 211">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 212">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 213">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 214">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 215">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 216">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 217">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 218">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 219">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 220">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 221">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 222">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 223">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 224">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 225">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 226">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 227">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 228">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 229">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 230">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 231">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 232">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 233">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 234">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 235">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 236">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 237">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 238">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 239">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 240">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 241">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 242">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 243">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 244">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 245">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 246">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 247">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 248">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 249">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 250">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 251">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 252">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 253">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 254">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 255">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 256">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 257">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 258">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 259">
+  <data key="d0">1</data>
+</node>
+<node id="Topic 260">
+  <data key="d0">1</data>
+</node>
+<node id="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d0">0</data>
+</node>
+<node id="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d0">0</data>
+</node>
+<node id="1876_Bauditz_Himmelbjerget">
+  <data key="d0">0</data>
+</node>
+<node id="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d0">0</data>
+</node>
+<node id="1877_HansenJH_EnFriMand">
+  <data key="d0">0</data>
+</node>
+<node id="1877_SkramE_Herregaardsbilleder">
+  <data key="d0">0</data>
+</node>
+<node id="1878_Schandorph_UdenMidtpunkt">
+  <data key="d0">0</data>
+</node>
+<node id="1878_Topsoee_Nutidsbilleder">
+  <data key="d0">0</data>
+</node>
+<node id="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d0">0</data>
+</node>
+<node id="1880_Bang_HaabloeseSlaegter">
+  <data key="d0">0</data>
+</node>
+<node id="1880_Fibiger_Askepot">
+  <data key="d0">0</data>
+</node>
+<node id="1880_JacobsenJP_NielsLyhne">
+  <data key="d0">0</data>
+</node>
+<node id="1880_Kielland_GarmanOgWorse">
+  <data key="d0">0</data>
+</node>
+<node id="1880_Schandorph_Smaafolk">
+  <data key="d0">0</data>
+</node>
+<node id="1881_Fibiger_MineSoestre">
+  <data key="d0">0</data>
+</node>
+<node id="1881_Kielland_Arbeidsfolk">
+  <data key="d0">0</data>
+</node>
+<node id="1881_Kielland_Else">
+  <data key="d0">0</data>
+</node>
+<node id="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d0">0</data>
+</node>
+<node id="1882_HansenJH_Barbara">
+  <data key="d0">0</data>
+</node>
+<node id="1882_Kielland_SkipperWorse">
+  <data key="d0">0</data>
+</node>
+<node id="1883_Kielland_Gift">
+  <data key="d0">0</data>
+</node>
+<node id="1883_Pontoppidan_SandingeMenighed">
+  <data key="d0">0</data>
+</node>
+<node id="1884_Bauditz_Kaffesladder">
+  <data key="d0">0</data>
+</node>
+<node id="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d0">0</data>
+</node>
+<node id="1884_Kielland_Fortuna">
+  <data key="d0">0</data>
+</node>
+<node id="1884_Schandorph_Skovfogedboernene">
+  <data key="d0">0</data>
+</node>
+<node id="1886_Kielland_Sne">
+  <data key="d0">0</data>
+</node>
+<node id="1886_Pontoppidan_Mimoser">
+  <data key="d0">0</data>
+</node>
+<node id="1887_Kielland_SanktHansFest">
+  <data key="d0">0</data>
+</node>
+<node id="1887_Levison_Konsulinden">
+  <data key="d0">0</data>
+</node>
+<node id="1887_Pontoppidan_Isbjoernen">
+  <data key="d0">0</data>
+</node>
+<node id="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d0">0</data>
+</node>
+<node id="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d0">0</data>
+</node>
+<node id="1888_Pontoppidan_Spoegelser">
+  <data key="d0">0</data>
+</node>
+<node id="1888_SkramA_Lucie">
+  <data key="d0">0</data>
+</node>
+<node id="1889_Schandorph_StillelivsFolk">
+  <data key="d0">0</data>
+</node>
+<node id="1890_Fibiger_PraestOgLaege">
+  <data key="d0">0</data>
+</node>
+<node id="1890_Hamsun_Sult">
+  <data key="d0">0</data>
+</node>
+<node id="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d0">0</data>
+</node>
+<node id="1891_HansenJH_Oprejsning">
+  <data key="d0">0</data>
+</node>
+<node id="1891_Kielland_Jacob">
+  <data key="d0">0</data>
+</node>
+<node id="1891_Pontoppidan_Muld">
+  <data key="d0">0</data>
+</node>
+<node id="1892_Hamsun_Mysterier">
+  <data key="d0">0</data>
+</node>
+<node id="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d0">0</data>
+</node>
+<node id="1892_Schandorph_PoetOgJunker">
+  <data key="d0">0</data>
+</node>
+<node id="1893_Hamsun_NyJord">
+  <data key="d0">0</data>
+</node>
+<node id="1893_Hamsun_RedaktoerLynge">
+  <data key="d0">0</data>
+</node>
+<node id="1894_Hamsun_Pan">
+  <data key="d0">0</data>
+</node>
+<node id="1894_Pontoppidan_DenGamleAdam">
+  <data key="d0">0</data>
+</node>
+<node id="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d0">0</data>
+</node>
+<node id="1895_Pontoppidan_DommensDag">
+  <data key="d0">0</data>
+</node>
+<node id="1895_SkramA_PaaSctJoergen">
+  <data key="d0">0</data>
+</node>
+<node id="1895_SkramA_ProfessorHieronimus">
+  <data key="d0">0</data>
+</node>
+<node id="1896_Pontoppidan_Hoejsang">
+  <data key="d0">0</data>
+</node>
+<node id="1896_Schandorph_Frigjort">
+  <data key="d0">0</data>
+</node>
+<node id="1897_Pontoppidan_Kirkeskuden">
+  <data key="d0">0</data>
+</node>
+<node id="1897_Schandorph_FroekenGram">
+  <data key="d0">0</data>
+</node>
+<node id="1897_SkramE_AgnesVittrup">
+  <data key="d0">0</data>
+</node>
+<node id="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d0">0</data>
+</node>
+<node id="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d0">0</data>
+</node>
+<node id="1898_SkramA_Afkom">
+  <data key="d0">0</data>
+</node>
+<node id="1898_SkramE_HellenVige">
+  <data key="d0">0</data>
+</node>
+<node id="1899_Bang_LivOgDoed">
+  <data key="d0">0</data>
+</node>
+<node id="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d0">0</data>
+</node>
+<node id="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d0">0</data>
+</node>
+<node id="1899_Schandorph_GamleBilleder">
+  <data key="d0">0</data>
+</node>
+<edge source="1870_AndersenHC_LykkePeer" target="Topic 75">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="1870_AndersenHC_LykkePeer" target="Topic 96">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="1870_AndersenHC_LykkePeer" target="Topic 103">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="1870_AndersenHC_LykkePeer" target="Topic 140">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="1870_AndersenHC_LykkePeer" target="Topic 181">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="1870_AndersenHC_LykkePeer" target="Topic 212">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="1870_AndersenHC_LykkePeer" target="Topic 214">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="1870_AndersenHC_LykkePeer" target="Topic 224">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="1870_AndersenHC_LykkePeer" target="Topic 258">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 0" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 0" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 0" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 0" target="1883_Kielland_Gift">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 0" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 0" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 0" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 0" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 1" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 1" target="1890_Hamsun_Sult">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 1" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 2" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 3" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 4" target="1890_Hamsun_Sult">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 4" target="1894_Hamsun_Pan">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="Topic 5" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 6" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 6" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 6" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 6" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 6" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 6" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 6" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 6" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 6" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 6" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 7" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 7" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 7" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 7" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 7" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 7" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 7" target="1887_Levison_Konsulinden">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 7" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 7" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 8" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 8" target="1883_Kielland_Gift">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 8" target="1884_Kielland_Fortuna">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 9" target="1877_HansenJH_EnFriMand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 9" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 9" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 9" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 9" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 9" target="1891_Pontoppidan_Muld">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 9" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 9" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 10" target="1898_SkramA_Afkom">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 11" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="Topic 11" target="1898_SkramA_Afkom">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 12" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 12" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 12" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 12" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 12" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 12" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 12" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 12" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 12" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 13" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 13" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 13" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 13" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 13" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 14" target="1891_Pontoppidan_Muld">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 14" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 15" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 15" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 15" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 15" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 15" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 15" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 15" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 15" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 15" target="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 16" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 16" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="Topic 17" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 17" target="1881_Fibiger_MineSoestre">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 17" target="1883_Kielland_Gift">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 17" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 17" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 17" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 17" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 18" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 18" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 18" target="1877_SkramE_Herregaardsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 18" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 18" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 18" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 18" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 18" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 18" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 19" target="1896_Schandorph_Frigjort">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 20" target="1881_Fibiger_MineSoestre">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 21" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 21" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 21" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 21" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 21" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 21" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 21" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 21" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 21" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 21" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 22" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 23" target="1898_SkramA_Afkom">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 24" target="1888_SkramA_Lucie">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 25" target="1890_Hamsun_Sult">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 25" target="1894_Hamsun_Pan">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 25" target="1894_Pontoppidan_DenGamleAdam">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 25" target="1896_Pontoppidan_Hoejsang">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 25" target="1898_SkramE_HellenVige">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 26" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 26" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 26" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 26" target="1881_Kielland_Else">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 26" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 26" target="1892_Hamsun_Mysterier">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 27" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 27" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 27" target="1881_Kielland_Else">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 27" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 27" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 27" target="1887_Kielland_SanktHansFest">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 27" target="1887_Pontoppidan_Isbjoernen">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 27" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 27" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 28" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 28" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 28" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 28" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 28" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 28" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 28" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 28" target="1896_Pontoppidan_Hoejsang">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 29" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="Topic 29" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 29" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 30" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 30" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 30" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 30" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 30" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 30" target="1898_SkramA_Afkom">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 30" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 31" target="1887_Levison_Konsulinden">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 32" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 32" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 33" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 33" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 33" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 33" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 33" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 33" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 33" target="1894_Pontoppidan_DenGamleAdam">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 33" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 33" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 34" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 34" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 34" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 34" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 34" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 34" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 34" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 34" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 34" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 35" target="1884_Kielland_Fortuna">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 35" target="1891_Kielland_Jacob">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 35" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 36" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 36" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 36" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 36" target="1892_Hamsun_Mysterier">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 36" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 36" target="1898_SkramE_HellenVige">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 37" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 37" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 37" target="1880_Fibiger_Askepot">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 37" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 37" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 38" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 39" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 39" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 39" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 39" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 39" target="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 39" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 39" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 39" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 40" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="Topic 40" target="1898_SkramA_Afkom">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 41" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 41" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 41" target="1884_Kielland_Fortuna">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 41" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 41" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 41" target="1898_SkramE_HellenVige">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 42" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 42" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 43" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 43" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 44" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 44" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 44" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 44" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 44" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 44" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 44" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 44" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 45" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 45" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 46" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 47" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 47" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 47" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 47" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 47" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 47" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 47" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 47" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 48" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 49" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 49" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 49" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 49" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 49" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 49" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 49" target="1896_Schandorph_Frigjort">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 49" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 50" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 51" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 51" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 51" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 51" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 52" target="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 52" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 53" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 53" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 53" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 53" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 53" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 53" target="1892_Hamsun_Mysterier">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 53" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 54" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 54" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 54" target="1881_Fibiger_MineSoestre">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 54" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 54" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 54" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 54" target="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 55" target="1877_HansenJH_EnFriMand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 55" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 55" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 55" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 55" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 55" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 55" target="1898_SkramA_Afkom">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 55" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 56" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 56" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 56" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 57" target="1877_HansenJH_EnFriMand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 57" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 57" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 57" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 57" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 57" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 57" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 57" target="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 58" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 58" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 58" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 58" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 58" target="1884_Kielland_Fortuna">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 58" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 58" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 58" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 59" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 60" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 60" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 60" target="1880_Fibiger_Askepot">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 60" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 60" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 60" target="1896_Pontoppidan_Hoejsang">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 60" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 60" target="1898_SkramE_HellenVige">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 61" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 61" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 61" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 61" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 61" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 61" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 61" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 61" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 61" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 62" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 62" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 62" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 62" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 62" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 62" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 62" target="1896_Schandorph_Frigjort">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 63" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 63" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 63" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 63" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 63" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 63" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 63" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 63" target="1894_Pontoppidan_DenGamleAdam">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 64" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 64" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 64" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 64" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 65" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 65" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 65" target="1898_SkramA_Afkom">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 66" target="1886_Kielland_Sne">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 67" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 67" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 67" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 67" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 67" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 67" target="1897_SkramE_AgnesVittrup">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 67" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 67" target="1898_SkramA_Afkom">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 67" target="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 68" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 68" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 68" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 68" target="1883_Kielland_Gift">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 68" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 68" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 68" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 69" target="1893_Hamsun_NyJord">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 70" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 70" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 70" target="1884_Kielland_Fortuna">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 70" target="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 70" target="1893_Hamsun_NyJord">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 70" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 71" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 71" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 71" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 71" target="1881_Fibiger_MineSoestre">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 71" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 71" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 71" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 71" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 72" target="1877_SkramE_Herregaardsbilleder">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 72" target="1880_Fibiger_Askepot">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 73" target="1891_Kielland_Jacob">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 74" target="1899_Bang_LivOgDoed">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 75" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 75" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 75" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="Topic 76" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 76" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 76" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 76" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 76" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 76" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 76" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 77" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 77" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 77" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 77" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 77" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 78" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 78" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 78" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 78" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 78" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 78" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 78" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 78" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 79" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 79" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 80" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 80" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 80" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 81" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 81" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 81" target="1877_HansenJH_EnFriMand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 81" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 81" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 81" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 81" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 81" target="1894_Pontoppidan_DenGamleAdam">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 82" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 82" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 83" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 83" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 83" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 83" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 83" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 83" target="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 83" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 83" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 83" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 84" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 84" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 84" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 84" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 84" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 85" target="1883_Kielland_Gift">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 85" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 86" target="1877_HansenJH_EnFriMand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 86" target="1880_Fibiger_Askepot">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 87" target="1877_SkramE_Herregaardsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 87" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 87" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 87" target="1881_Kielland_Else">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 87" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 87" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 87" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 87" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 87" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 88" target="1880_Schandorph_Smaafolk">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 88" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 89" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 89" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 89" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 89" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 89" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 89" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 90" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 90" target="1898_SkramA_Afkom">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 91" target="1882_HansenJH_Barbara">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 92" target="1877_HansenJH_EnFriMand">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 93" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 93" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 94" target="1880_Fibiger_Askepot">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 95" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 96" target="1877_HansenJH_EnFriMand">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 96" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 96" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 96" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 96" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 96" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 97" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 97" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 98" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 98" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 98" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 98" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 98" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 98" target="1892_Hamsun_Mysterier">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 98" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 99" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 99" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 99" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 99" target="1881_Fibiger_MineSoestre">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 99" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 99" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 100" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 101" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 101" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 101" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 101" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 101" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 101" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 101" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 101" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 101" target="1899_Bang_LivOgDoed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 102" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 102" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 102" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 102" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 102" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 102" target="1881_Kielland_Else">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 102" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 102" target="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 102" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 104" target="1877_HansenJH_EnFriMand">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 104" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 104" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 104" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 104" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 104" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 105" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 105" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 105" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 105" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 105" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 105" target="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 105" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 105" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 105" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 105" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 106" target="1892_Hamsun_Mysterier">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 107" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 108" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 108" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 108" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 108" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 108" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 108" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 108" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 108" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 108" target="1896_Pontoppidan_Hoejsang">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 108" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 109" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 109" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 109" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 110" target="1898_SkramA_Afkom">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 111" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 111" target="1877_HansenJH_EnFriMand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 111" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 111" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 111" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 111" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 111" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 111" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 111" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 112" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 112" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 112" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 112" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 112" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 112" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 112" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 112" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 112" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 113" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 113" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 113" target="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 113" target="1888_SkramA_Lucie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 113" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 113" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 113" target="1898_SkramA_Afkom">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 114" target="1880_Schandorph_Smaafolk">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 115" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 115" target="1877_HansenJH_EnFriMand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 115" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 115" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 115" target="1891_Pontoppidan_Muld">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 115" target="1894_Pontoppidan_DenGamleAdam">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 115" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 116" target="1877_SkramE_Herregaardsbilleder">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 117" target="1877_SkramE_Herregaardsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 117" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 117" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 117" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 117" target="1890_Hamsun_Sult">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 117" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 117" target="1894_Hamsun_Pan">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 118" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 118" target="1891_HansenJH_Oprejsning">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="Topic 118" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 118" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 118" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 119" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 119" target="1882_Kielland_SkipperWorse">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 120" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 120" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 120" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 120" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 120" target="1898_SkramA_Afkom">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 121" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 121" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 121" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 121" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 121" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 121" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 121" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 121" target="1896_Schandorph_Frigjort">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 121" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 122" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 123" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 123" target="1880_Schandorph_Smaafolk">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 123" target="1887_Kielland_SanktHansFest">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 123" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 123" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 123" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 124" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 124" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 124" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 124" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 124" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 124" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 124" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 124" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 124" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 125" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 125" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 125" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 125" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 125" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 125" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 125" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 125" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 126" target="1892_Hamsun_Mysterier">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 126" target="1893_Hamsun_NyJord">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="Topic 127" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 127" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 127" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 127" target="1881_Kielland_Else">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 127" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 127" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 127" target="1893_Hamsun_NyJord">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 128" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 128" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 128" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 128" target="1891_HansenJH_Oprejsning">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 128" target="1892_Hamsun_Mysterier">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 128" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 128" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 128" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 129" target="1888_SkramA_Lucie">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 130" target="1893_Hamsun_NyJord">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 131" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 131" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 131" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 131" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 131" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 131" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 131" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 131" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 131" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 132" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 132" target="1883_Kielland_Gift">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="Topic 132" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 132" target="1897_Schandorph_FroekenGram">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 133" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 133" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 133" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 133" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 133" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 133" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 133" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 133" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 133" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 134" target="1892_Hamsun_Mysterier">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 135" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 135" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 135" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 135" target="1892_Hamsun_Mysterier">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 135" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 135" target="1894_Hamsun_Pan">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 135" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 136" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 137" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 137" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 137" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 137" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 137" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 137" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 137" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 137" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 137" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 137" target="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 138" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 138" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 138" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 138" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 138" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 138" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 138" target="1894_Pontoppidan_DenGamleAdam">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 138" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 138" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 138" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 139" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 140" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 140" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 140" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 140" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 140" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 140" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 141" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 141" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 141" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 141" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 141" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 141" target="1892_Hamsun_Mysterier">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 141" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 141" target="1894_Hamsun_Pan">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 141" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 142" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 143" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 143" target="1877_HansenJH_EnFriMand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 143" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 143" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 143" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 143" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 143" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 144" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 144" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 144" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 144" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 144" target="1894_Hamsun_Pan">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 144" target="1896_Schandorph_Frigjort">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 144" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 144" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 145" target="1877_HansenJH_EnFriMand">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 146" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 146" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 146" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 146" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 146" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 146" target="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 146" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 147" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 147" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 147" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 147" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 147" target="1887_Levison_Konsulinden">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 147" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 147" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 147" target="1899_Bang_LivOgDoed">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 148" target="1877_SkramE_Herregaardsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 148" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 148" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 148" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 148" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 148" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 148" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 148" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 149" target="1882_Kielland_SkipperWorse">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 149" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="Topic 149" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 150" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 150" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 150" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 150" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 150" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 150" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 150" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 150" target="1899_Bang_LivOgDoed">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 151" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 151" target="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 151" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 152" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 152" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 152" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 152" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 152" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 152" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 152" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 152" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 153" target="1887_Kielland_SanktHansFest">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 154" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 154" target="1881_Fibiger_MineSoestre">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 154" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="Topic 155" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 155" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 155" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 155" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 155" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 155" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 155" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 155" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 156" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 156" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 156" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 156" target="1886_Kielland_Sne">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 156" target="1891_Pontoppidan_Muld">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 156" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 156" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 157" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 158" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 158" target="1890_Hamsun_Sult">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 158" target="1892_Hamsun_Mysterier">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 158" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 158" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 158" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 159" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 159" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 159" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 159" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 159" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 159" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 160" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 160" target="1898_SkramA_Afkom">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="Topic 161" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 161" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 161" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 161" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 161" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 162" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 162" target="1897_Schandorph_FroekenGram">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 163" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 163" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 163" target="1886_Kielland_Sne">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 163" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 163" target="1892_Hamsun_Mysterier">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 163" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 163" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 164" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 165" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 165" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 165" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 165" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 165" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 165" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 165" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 165" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 165" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 166" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 167" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 167" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 167" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 167" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 167" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 167" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 167" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 168" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 168" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 168" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 168" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 168" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 168" target="1894_Hamsun_Pan">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 168" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 168" target="1899_Bang_LivOgDoed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 168" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 169" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 169" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 169" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 169" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 169" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 169" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 169" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 170" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 170" target="1893_Hamsun_NyJord">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 171" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 171" target="1882_Kielland_SkipperWorse">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 172" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 172" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 172" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 172" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 172" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 172" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 172" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 173" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 173" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 173" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 173" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 173" target="1892_Hamsun_Mysterier">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 173" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 173" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 173" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 174" target="1877_HansenJH_EnFriMand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 174" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 174" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 174" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 174" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 174" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 175" target="1894_Hamsun_Pan">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 176" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 176" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 176" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 176" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 176" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 176" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 176" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 176" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 176" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 177" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 177" target="1883_Kielland_Gift">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 177" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 177" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 177" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 177" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 178" target="1880_Schandorph_Smaafolk">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 179" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 179" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 179" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 179" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 179" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 179" target="1892_Hamsun_Mysterier">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 179" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 179" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 180" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 180" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 180" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 180" target="1893_Hamsun_NyJord">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 180" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 180" target="1896_Schandorph_Frigjort">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 180" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 181" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 181" target="1877_HansenJH_EnFriMand">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 181" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 181" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 181" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 182" target="1892_Hamsun_Mysterier">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 183" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 183" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 183" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 183" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 183" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 183" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 183" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 183" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 183" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 184" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 184" target="1892_Hamsun_Mysterier">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 184" target="1893_Hamsun_NyJord">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 185" target="1877_HansenJH_EnFriMand">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="Topic 185" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 185" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 186" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 186" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 186" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 186" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 186" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 186" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 187" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 187" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 187" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 187" target="1887_SkramA_SjurGabrielHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 187" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 187" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 187" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 187" target="1894_Hamsun_Pan">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 187" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 188" target="1877_SkramE_Herregaardsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 188" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 188" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 188" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 188" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 188" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 188" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 188" target="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 188" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 189" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 189" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 189" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 189" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 189" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 189" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 189" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 190" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 190" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 190" target="1881_Fibiger_MineSoestre">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 190" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 190" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 190" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 190" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 190" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 191" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 192" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 192" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 192" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 192" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 192" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 192" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 192" target="1893_Hamsun_NyJord">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 193" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 193" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 193" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 193" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 193" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 193" target="1896_Pontoppidan_Hoejsang">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 193" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 193" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 194" target="1877_HansenJH_EnFriMand">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 194" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 194" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 194" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 194" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 194" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 194" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 195" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 195" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 195" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 195" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 195" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 195" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 195" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 195" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 196" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 196" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 196" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 196" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 196" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 196" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 196" target="1896_Schandorph_Frigjort">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 196" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 197" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 197" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 197" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 198" target="1898_SkramA_Afkom">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 199" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 199" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 199" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 199" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 199" target="1898_SkramA_Afkom">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 200" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 201" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 201" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 201" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 201" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 201" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 201" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 201" target="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 202" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 202" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 202" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 202" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 202" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 203" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 203" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 203" target="1882_Kielland_SkipperWorse">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 203" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 203" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 203" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 203" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 203" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 204" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 204" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 204" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 204" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 204" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 204" target="1887_Pontoppidan_Isbjoernen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 204" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 204" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 204" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 204" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 205" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 205" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 205" target="1894_Hamsun_Pan">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 205" target="1894_Pontoppidan_DenGamleAdam">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 205" target="1896_Pontoppidan_Hoejsang">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 206" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 206" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 206" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 206" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 206" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 206" target="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 207" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 207" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 207" target="1883_Kielland_Gift">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 207" target="1884_Kielland_Fortuna">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 207" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 207" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 208" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="Topic 208" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 208" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 208" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 208" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 209" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 209" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 209" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 209" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 209" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 209" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 209" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 209" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 209" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 210" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 210" target="1884_Kielland_Fortuna">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 210" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 210" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="Topic 210" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 211" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 211" target="1882_Kielland_SkipperWorse">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 211" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 211" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 211" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 211" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 211" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 211" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 212" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 212" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 212" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 212" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 212" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 212" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 212" target="1894_Hamsun_Pan">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 213" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 213" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 213" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 213" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 213" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 213" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 213" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 213" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 213" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 213" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 214" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 214" target="1877_HansenJH_EnFriMand">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 214" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 214" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 214" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 214" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 215" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 215" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 215" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 215" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 215" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 215" target="1894_Pontoppidan_DenGamleAdam">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 216" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 216" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">5.0</data>
+</edge>
+<edge source="Topic 216" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 216" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 217" target="1898_SkramA_Afkom">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 218" target="1883_Kielland_Gift">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 218" target="1884_Kielland_Fortuna">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 219" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 219" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 219" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 219" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 219" target="1880_Fibiger_Askepot">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 219" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 219" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 219" target="1887_Pontoppidan_Isbjoernen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 219" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 220" target="1891_HansenJH_Oprejsning">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 221" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 221" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 221" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 222" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 222" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 222" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 222" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="Topic 222" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 223" target="1893_Hamsun_NyJord">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 224" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 224" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 224" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 224" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 224" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 224" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 224" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 224" target="1894_Hamsun_Pan">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 225" target="1877_SkramE_Herregaardsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 225" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 225" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 225" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 225" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 225" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 225" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 225" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 225" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 226" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 226" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 226" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 226" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 226" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 226" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 226" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 226" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 226" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 227" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 227" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 227" target="1881_Kielland_Else">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 227" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 227" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 227" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 227" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 227" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 227" target="1896_Pontoppidan_Hoejsang">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 227" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 228" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 228" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 228" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 228" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 228" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 228" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 228" target="1891_Pontoppidan_Muld">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 228" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 229" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 229" target="1892_Hamsun_Mysterier">
+  <data key="d1">9.0</data>
+</edge>
+<edge source="Topic 230" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 230" target="1880_Fibiger_Askepot">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 230" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 231" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 231" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 231" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 231" target="1883_Kielland_Gift">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 231" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 231" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 231" target="1897_SkramE_AgnesVittrup">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 231" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 232" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 232" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 232" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 232" target="1884_Kielland_Fortuna">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 232" target="1887_Pontoppidan_Isbjoernen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 232" target="1888_SkramA_Lucie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 232" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 232" target="1898_SkramE_HellenVige">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 232" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 233" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 233" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 234" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 234" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 234" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 234" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 234" target="1886_Kielland_Sne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 234" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 234" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 235" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 235" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 235" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 235" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 235" target="1891_Pontoppidan_Muld">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 235" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 235" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 235" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 236" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">10.0</data>
+</edge>
+<edge source="Topic 237" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 237" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 237" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 237" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 237" target="1882_HansenJH_Barbara">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 237" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 237" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 237" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 237" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 237" target="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 238" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 238" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 238" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 238" target="1882_HansenJH_Barbara">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 238" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 238" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 238" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 238" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 238" target="1899_Bang_LivOgDoed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 239" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 239" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 239" target="1881_Fibiger_MineSoestre">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 239" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 239" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 239" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 239" target="1893_Hamsun_RedaktoerLynge">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 239" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 240" target="1878_Schandorph_UdenMidtpunkt">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 240" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 240" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 240" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 240" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 240" target="1896_Schandorph_Frigjort">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 240" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 240" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 240" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 241" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 241" target="1877_SkramE_Herregaardsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 241" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 241" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 241" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 241" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 241" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 241" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 241" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 241" target="1899_Pontoppidan_LykkePerIDetFremmede">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 242" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 242" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 242" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 242" target="1892_Schandorph_PoetOgJunker">
+  <data key="d1">6.0</data>
+</edge>
+<edge source="Topic 242" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 243" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 243" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 243" target="1886_Kielland_Sne">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 243" target="1887_Kielland_SanktHansFest">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 243" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 243" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 243" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 243" target="1897_Pontoppidan_Kirkeskuden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 243" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 244" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 244" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 244" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 244" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 244" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 244" target="1892_Hamsun_Mysterier">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 244" target="1894_Hamsun_Pan">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 244" target="1899_Bang_LivOgDoed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 245" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">8.0</data>
+</edge>
+<edge source="Topic 245" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 245" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 246" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 246" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 246" target="1881_Fibiger_MineSoestre">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 246" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 246" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 246" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 246" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 246" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 246" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 247" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 247" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 247" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 247" target="1884_Kielland_Fortuna">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 247" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 247" target="1897_Schandorph_FroekenGram">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 247" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 247" target="1898_SkramA_Afkom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 247" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 248" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 248" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 248" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 248" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 248" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 248" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 248" target="1891_Pontoppidan_Muld">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 248" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 249" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 249" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 249" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 249" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 249" target="1884_Bauditz_Kaffesladder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 249" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 249" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 250" target="1875_Topsoee_JasonMedDetGyldneSkind">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 250" target="1877_SkramE_Herregaardsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 250" target="1890_SkramA_SGMyreHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 250" target="1893_Hamsun_NyJord">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 250" target="1894_Pontoppidan_DenGamleAdam">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 250" target="1895_SkramA_ProfessorHieronimus">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 250" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 251" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 251" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 251" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 251" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 251" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 251" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 251" target="1887_Levison_Konsulinden">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 251" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 251" target="1894_Schandorph_VilhelmVangsStudenteraar">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 252" target="1882_HansenJH_Barbara">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 252" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 252" target="1888_SkramA_Lucie">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 252" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 252" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 252" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 252" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 253" target="1880_JacobsenJP_NielsLyhne">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 253" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 253" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 253" target="1892_Pontoppidan_DetForjaettedeLand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 253" target="1894_Pontoppidan_DenGamleAdam">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 253" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 253" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 253" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 254" target="1880_Bang_HaabloeseSlaegter">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 254" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 254" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 254" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 254" target="1883_Pontoppidan_SandingeMenighed">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 254" target="1884_Schandorph_Skovfogedboernene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 254" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 254" target="1891_HansenJH_Oprejsning">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 254" target="1895_Pontoppidan_DommensDag">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 254" target="1896_Schandorph_Frigjort">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 255" target="1876_JacobsenJP_FruMarieGrubbe">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 255" target="1878_Topsoee_Nutidsbilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 255" target="1880_Schandorph_Smaafolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 255" target="1881_Fibiger_MineSoestre">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 255" target="1881_Kielland_Arbeidsfolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 255" target="1887_SkramA_ToVennerHellemyrsfolket">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 255" target="1888_Pontoppidan_Spoegelser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 255" target="1888_SkramA_Lucie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 255" target="1895_SkramA_PaaSctJoergen">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 256" target="1876_Bauditz_Himmelbjerget">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 256" target="1879_SkramE_GertrudeColbjoernsen">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 256" target="1881_Schandorph_ThomasFrissHistorie">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 256" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 256" target="1889_Schandorph_StillelivsFolk">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 256" target="1892_Hamsun_Mysterier">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 256" target="1893_Hamsun_NyJord">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 256" target="1899_Schandorph_GamleBilleder">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 257" target="1877_HansenJH_EnFriMand">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 257" target="1880_Kielland_GarmanOgWorse">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 257" target="1891_HansenJH_Oprejsning">
+  <data key="d1">7.0</data>
+</edge>
+<edge source="Topic 258" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 258" target="1890_Fibiger_PraestOgLaege">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 259" target="1891_Kielland_Jacob">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 259" target="1898_Pontoppidan_LykkePerFinderSkatten">
+  <data key="d1">3.0</data>
+</edge>
+<edge source="Topic 259" target="1898_Pontoppidan_LykkePerHansUngdom">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 259" target="1899_Pontoppidan_LykkePerHansKaerlighed">
+  <data key="d1">4.0</data>
+</edge>
+<edge source="Topic 260" target="1870_GB_PolitispionenEllerHaelerhusetPaaKristianshavn">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 260" target="1882_Kielland_SkipperWorse">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 260" target="1884_HansenJH_KarstenUlvgPaddehattene">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 260" target="1886_Pontoppidan_Mimoser">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 260" target="1890_Hamsun_Sult">
+  <data key="d1">1.0</data>
+</edge>
+<edge source="Topic 260" target="1891_HansenJH_Oprejsning">
+  <data key="d1">2.0</data>
+</edge>
+<edge source="Topic 260" target="1893_Hamsun_NyJord">
+  <data key="d1">2.0</data>
+</edge>
+</graph></graphml>
